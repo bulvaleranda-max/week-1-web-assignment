@@ -1,0 +1,60 @@
+```css
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* ID selector */
+#main-header {
+    background-color: #dbeafe;
+    padding: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Element selector */
+h1 {
+    margin-bottom: 10px;
+    font-size: 32px;
+}
+
+/* Class selector */
+.expense-section {
+    background-color: #ffffff;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Class selector */
+.input-group {
+    margin-bottom: 15px;
+}
+
+/* Element selector */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Element selector */
+input {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* ID selector */
+#expenses {
+    background-color: #e8f5e9;
+    padding: 25px;
+    border-radius: 8px;
+}
+```
